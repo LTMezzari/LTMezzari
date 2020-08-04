@@ -8,7 +8,7 @@ You can reach me through here...
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:lucas.mezzari1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-torres-5b5a26130/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LucasTMezzari?label=Follow)](https://twitter.com/LucasTMezzari)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/LTMezzari?label=Follow&style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LTMezzari)
 
 #
