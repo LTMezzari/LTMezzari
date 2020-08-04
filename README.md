@@ -32,11 +32,11 @@ const lucas = {
 #
 ### A bit of what I do here...
 
-What you will find here:
+What you will find:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTMezzari&theme=dark)
 
-Here is one my libraries on witch you will find me working:
+Here is one my libraries where you will find me working:
 
 [![Kotlin Network](https://github-readme-stats.vercel.app/api/pin/?username=LTMezzari&repo=kotlin-network&theme=dark)](https://github.com/LTMezzari/kotlin-network)
 
