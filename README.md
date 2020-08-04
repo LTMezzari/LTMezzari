@@ -15,7 +15,7 @@ You can reach me through here...
 ### A few things to know about me...
 ```javascript
 const lucas = {
-	name: "Lucas Torres Mezzari"
+	name: "Lucas Torres Mezzari",
 	pronouns: "He" | "Him",
 	languages: ["Kotlin", "Java", "Swift", "Objective C", "Javascript", "Flutter","C#"],
 	technologies: {
