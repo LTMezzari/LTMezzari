@@ -45,3 +45,7 @@ Here is one my libraries where you will find me working:
 ### Some stats because it is cool...
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LTMezzari&theme=dark)
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=LTMezzari&theme=flat&no-frame=true&margin-w=30" />
+</div>
