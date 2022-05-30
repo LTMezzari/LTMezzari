@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Lucas Torres
-Mobile developer at [Digital Business](https://www.digitalbusiness.com.br/)
+Mobile developer at [Dietbox](https://dietbox.me/pt-BR)
 
 You can reach me through here...
 
@@ -23,7 +23,7 @@ const lucas = {
 		mobile: ["Native Android", "Native iOS", "React Native", "Flutter"],
 		frontEnd: ["VueJS", "AngularJS"],
 		backEnd: ["Node", ".NET", "Spring"],
-		database: ["MongoDB", "MySQL", "SQL Express", "Object-Box", "Realm"],
+		database: ["MongoDB", "MySQL", "SQL Express", "Object-Box", "Realm", "PostgreSQL"],
 		game: ["Unity"],
 		misk: ["Firebase"]
 	},
