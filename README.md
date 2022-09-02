@@ -18,13 +18,13 @@ You can reach me through here...
 const lucas = {
 	name: "Lucas Torres Mezzari",
 	pronouns: "He" | "Him",
-	languages: ["Kotlin", "Java", "Swift", "Objective C", "Javascript", "Typescrypt", "Dart", "C#"],
+	languages: ["Kotlin", "Java", "Swift", "Objective C", "Javascript", "Typescrypt", "Dart", "C#", "GDScript"],
 	technologies: {
 		mobile: ["Native Android", "Native iOS", "React Native", "Flutter"],
 		frontEnd: ["VueJS", "AngularJS"],
 		backEnd: ["Node", ".NET", "Spring"],
 		database: ["MongoDB", "MySQL", "SQL Express", "Object-Box", "Realm", "PostgreSQL"],
-		game: ["Unity"],
+		game: ["Unity", "Godot"],
 		misk: ["Firebase"]
 	},
 	interests: ["Gaming", "Coding", "Coffe"]
