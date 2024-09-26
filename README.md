@@ -25,7 +25,7 @@ const lucas = {
 		backEnd: ["Node", ".NET", "Spring"],
 		database: ["MongoDB", "MySQL", "SQL Express", "Object-Box", "Realm", "PostgreSQL"],
 		game: ["Unity", "Godot"],
-		misk: ["Firebase"]
+		misc: ["Firebase"]
 	},
 	interests: ["Gaming", "Coding", "Coffe"]
 }
