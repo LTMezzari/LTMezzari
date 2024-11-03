@@ -1,14 +1,13 @@
 
 
 # Hi, I'm Lucas Torres
-Mobile developer at [Dietbox](https://dietbox.me/pt-BR)
+Senior developer at [ADP](https://www.adp.com/)
 
 You can reach me through here...
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail&logoColor=white)](mailto:lucas.mezzari1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-torres-5b5a26130/)
-[![Twitter Follow](https://img.shields.io/badge/-Twitter-black?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/LucasTMezzari)
 [![Stack-Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/14108064/lucas-torres-mezzari)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LTMezzari)
 
