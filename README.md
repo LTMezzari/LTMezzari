@@ -40,6 +40,7 @@ What you will find:
 Here is one of my libraries where you will find me working:
 
 [![Kotlin Network](https://github-readme-stats.vercel.app/api/pin/?username=LTMezzari&repo=kotlin-network&theme=dark)](https://github.com/LTMezzari/kotlin-network)
+[![Calendar Adapter View](https://github-readme-stats.vercel.app/api/pin/?username=LTMezzari&repo=calendar-adapter-view&theme=dark)](https://github.com/LTMezzari/calendar-adapter-view)
 
 #
 ### Some stats because it is cool...
